@@ -11,6 +11,8 @@ namespace TestForGit
         static void Main(string[] args)
         {
             //  this is a test of the unix operating system.
+            IPProvider iprovider = new IPProvider();
+            iprovider.SetValue(4);
         }
     }
 }
