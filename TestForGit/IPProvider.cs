@@ -9,5 +9,9 @@ namespace TestForGit
     public class IPProvider
     {
         private int _takeValue { get; set;  }
+        public void SetValue(int value)
+        {
+            _takeValue = value;
+        }
     }
 }
