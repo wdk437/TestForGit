@@ -13,5 +13,9 @@ namespace TestForGit
         {
             _takeValue = value;
         }
+        public int GetValue()
+        {
+            return _takeValue;
+        }
     }
 }
