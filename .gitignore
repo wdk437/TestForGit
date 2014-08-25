@@ -1,0 +1,7 @@
+*.suo
+*.exe
+*.exe.config
+*.pdb
+*.manifest
+*.cache
+*TemporaryGeneratedFile*.*

@@ -1,0 +1,6 @@
+E:\NarenTestProj\CSharpTest\TestForGit\TestForGit\bin\Debug\TestForGit.exe.config
+E:\NarenTestProj\CSharpTest\TestForGit\TestForGit\bin\Debug\TestForGit.exe
+E:\NarenTestProj\CSharpTest\TestForGit\TestForGit\bin\Debug\TestForGit.pdb
+E:\NarenTestProj\CSharpTest\TestForGit\TestForGit\obj\Debug\TestForGit.csprojResolveAssemblyReference.cache
+E:\NarenTestProj\CSharpTest\TestForGit\TestForGit\obj\Debug\TestForGit.exe
+E:\NarenTestProj\CSharpTest\TestForGit\TestForGit\obj\Debug\TestForGit.pdb
